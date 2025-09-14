@@ -1,6 +1,6 @@
 # RC airplane build
 
-This project is moving out of the imagination phase, because I have purchased a trainer airplane.    I need to start drawing boxes around ideas....    find out what is reasonable....    Talking to other  [WAGS group](https://wmaa-wags.org/a/r/szz/rc/home) members....   get their inputs....    
+This project is moving out of the imagination phase, because I have purchased a trainer airplane.    I need to start drawing boxes around ideas....    find out what is reasonable....    Talking to other  [WMAA group](https://wmaa-wags.org/a/r/szz/rc/home) members....   get their inputs....    
 
 Google Gemini [Research thread](https://g.co/gemini/share/81f4cfa1813b)
 
