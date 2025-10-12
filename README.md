@@ -4,12 +4,12 @@ This project is moving out of the imagination phase, because I have purchased a 
 
 <span style="color: red; font-weight: 900; font-size:1.5em;">Above all have fun!   This is not project work!  </span>
 
-| season       | milestone                              | thing           | description |
-| ------------ | -------------------------------------- | --------------- | ----------- |
-| Autumn  (Q4) | Basic skills and configuration tunning | De Novo trainer |             |
-| Winter (Q1)  | Refine control skills with simulator   | sim app???      |             |
-| Spring (Q2)  | Go to outdoors with more confidence    |                 |             |
-| Summer (Q3)  | Continue to have fun                   |                 |             |
+| season       | milestone                                                                    | thing           | description |
+| ------------ | ---------------------------------------------------------------------------- | --------------- | ----------- |
+| Autumn  (Q4) | Basic skills with sim...   Build, test, and configure De Novo                | De Novo trainer |             |
+| Winter (Q1)  | Refine control skills with simulator...   Build, test, and configure De Novo | sim app???      |             |
+| Spring (Q2)  | Go to outdoors with more confidence...   Maiden flight...                    |                 |             |
+| Summer (Q3)  | Continue to have fun                                                         |                 |             |
 
 
 Google Gemini [Research thread](https://g.co/gemini/share/81f4cfa1813b)
