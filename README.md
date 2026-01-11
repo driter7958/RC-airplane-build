@@ -14,10 +14,10 @@ This project is moving out of the imagination phase, because I have purchased a 
 | season       | milestone                                                                    |
 | ------------ | ---------------------------------------------------------------------------- |
 | Autumn  (Q4) | Basic skills with sim...   Build, test, and configure De Novo                |
-|              | [VTXBuildChecklist](../VTXBuildChecklist.md)                                 |
+|              | [VTXBuildChecklist](VTXBuildChecklist.md)                                    |
 | Winter (Q1)  | Refine control skills with simulator...   Build, test, and configure De Novo |
+|              | [PreflightChecklist](PreflightChecklist.md)                                  |
 | Spring (Q2)  | Go to outdoors with more confidence...   Maiden flight...                    |
-|              | [PreflightChecklist](../PreflightChecklist.md)                               |
 | Summer (Q3)  | Continue to have fun                                                         |
 
 
