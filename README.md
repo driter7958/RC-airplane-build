@@ -1,8 +1,14 @@
+
+# Table of contents 
+
+insert a TOC content here 
 # RC airplane build
 
 This project is moving out of the imagination phase, because I have purchased a trainer airplane.    I need to start drawing boxes around ideas....    find out what is reasonable....    Talking to other  [WMAA group](https://wmaa-wags.org/a/r/szz/rc/home) members....   get their inputs....    
 
 <span style="color: red; font-weight: 900; font-size:1.5em;">Above all have fun!   This is not project work!  </span>
+
+# Timeline 
 
 | season       | milestone                                                                    | thing           | description |
 | ------------ | ---------------------------------------------------------------------------- | --------------- | ----------- |
@@ -10,6 +16,7 @@ This project is moving out of the imagination phase, because I have purchased a 
 | Winter (Q1)  | Refine control skills with simulator...   Build, test, and configure De Novo | sim app???      |             |
 | Spring (Q2)  | Go to outdoors with more confidence...   Maiden flight...                    |                 |             |
 | Summer (Q3)  | Continue to have fun                                                         |                 |             |
+# Bill of Materials 
 
 | Component                                                                                                                                                                                                                                                                                          | Description                                                                                                                                                                                                                                                                                                                                                                                                                            | Comments                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
