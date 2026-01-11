@@ -15,6 +15,7 @@ This project is moving out of the imagination phase, because I have purchased a 
 | ------------ | ---------------------------------------------------------------------------- |
 | Autumn  (Q4) | Basic skills with sim...   Build, test, and configure De Novo                |
 |              | [VTXBuildChecklist](VTXBuildChecklist.md)                                    |
+|              | [FC-ConfigurationChecklist](FC-ConfigurationChecklist.md)                    |
 | Winter (Q1)  | Refine control skills with simulator...   Build, test, and configure De Novo |
 |              | [PreflightChecklist](PreflightChecklist.md)                                  |
 | Spring (Q2)  | Go to outdoors with more confidence...   Maiden flight...                    |
