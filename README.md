@@ -13,10 +13,10 @@ This project is moving out of the imagination phase, because I have purchased a 
 | season       | milestone                                                                    | thing           | description |
 | ------------ | ---------------------------------------------------------------------------- | --------------- | ----------- |
 | Autumn  (Q4) | Basic skills with sim...   Build, test, and configure De Novo                | De Novo trainer |             |
-|              | [VTX Build Checklist](../VTX%20Build%20Checklist.md)                         |                 |             |
+|              | [VTXBuildChecklist](../VTXBuildChecklist.md)                                 |                 |             |
 | Winter (Q1)  | Refine control skills with simulator...   Build, test, and configure De Novo | sim app???      |             |
 | Spring (Q2)  | Go to outdoors with more confidence...   Maiden flight...                    |                 |             |
-|              | [Pre-flight checklist](../Pre-flight%20checklist.md)                         |                 |             |
+|              | [PreflightChecklist](../PreflightChecklist.md)                               |                 |             |
 | Summer (Q3)  | Continue to have fun                                                         |                 |             |
 # Bill of Materials 
 
